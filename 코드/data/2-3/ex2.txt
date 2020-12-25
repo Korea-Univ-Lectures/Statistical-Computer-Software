@@ -1,0 +1,6 @@
+Miyoung 1 F STAT 50 50
+Minji 2 F MATH 50 50
+Kongjui 6 F MATH 20 40
+Patjui 3 F MATH 20 45
+Heungboo 5 M MATH 25 25
+Nolboo 4 M STAT 29 28
